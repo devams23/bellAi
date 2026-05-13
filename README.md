@@ -1,3 +1,4 @@
+```
 bell_ai_product/
 ├── app/
 │   ├── __init__.py
@@ -17,3 +18,4 @@ bell_ai_product/
 ├── .env                     # Environment variables
 ├── Dockerfile               # Containerization configuration
 └── requirements.txt         # Project dependencies
+```

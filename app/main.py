@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from .routers.v1 import health
+from .routers.v1.endpoints import health
 app = FastAPI()
 
 
